@@ -30,7 +30,7 @@ stateDiagram-v2
 | 👨‍👩‍👧‍👦 Participants       | Individuals related to the meeting topics or invited to join the meeting. | Prepare in advance, review documents, draft questions or suggestions, contribute to actionable outcomes.  |
 
 ### Meeting Moderator Assignment
-คนที่ทำหน้าที่เป็น Meeting Moderator ในแต่ละกระประชุมจะแตกต่างกันออกไป ขึ้นอยู่กับว่าเป็นประชุมอะไร เช่น
+The person acting as Meeting Moderator varies by meeting, depending on the type of meeting, for example
 
 | NO | Meeting Type        | Meeting Moderator        |
 |----|---------------------|--------------------------|
